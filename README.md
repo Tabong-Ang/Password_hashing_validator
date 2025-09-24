@@ -26,6 +26,7 @@ Install `bcrypt` via pip:
 
 ```bash
 pip install bcrypt
+```
 
 📦 Usage
 1. Clone or download the project.
@@ -50,9 +51,9 @@ print(hashed)
 Replace the hardcoded hash with your own for production use.
 
 📁 Project Structure
-demo.py
+`demo.py
 password_validator.py
-README.md
+README.md`
 
 👤 Author
 Tabong 
